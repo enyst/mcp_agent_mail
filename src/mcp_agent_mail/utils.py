@@ -31,6 +31,8 @@ ADJECTIVES: Iterable[str] = (
     "Chartreuse",
     "Lilac",
     "Fuchsia",
+    "Smol",
+    "Grumpy",
     "Azure",
     "Amber",
     "Coral",
@@ -98,6 +100,7 @@ NOUNS: Iterable[str] = (
     "Hill",
     "Snow",
     "Castle",
+    "Paws",
     # Geography and nature
     "River",
     "Forest",
