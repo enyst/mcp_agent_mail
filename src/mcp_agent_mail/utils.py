@@ -20,6 +20,7 @@ ADJECTIVES: Iterable[str] = (
     "Lilac",
     "Fuchsia",
     "Smol",
+    "Grumpy",
 )
 NOUNS: Iterable[str] = (
     "Stone",

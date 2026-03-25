@@ -182,6 +182,7 @@ class TestDetectAgentNameMistake:
         assert _detect_agent_name_mistake("GreenLake") is None
         assert _detect_agent_name_mistake("BlueDog") is None
         assert _detect_agent_name_mistake("RedStone") is None
+        assert _detect_agent_name_mistake("GrumpyCat") is None
 
 
 class TestDetectSuspiciousFileReservation:
