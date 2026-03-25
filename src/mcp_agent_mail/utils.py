@@ -19,6 +19,7 @@ ADJECTIVES: Iterable[str] = (
     "Chartreuse",
     "Lilac",
     "Fuchsia",
+    "Smol",
 )
 NOUNS: Iterable[str] = (
     "Stone",
@@ -32,6 +33,7 @@ NOUNS: Iterable[str] = (
     "Hill",
     "Snow",
     "Castle",
+    "Paws",
 )
 
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
